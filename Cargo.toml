@@ -1,0 +1,11 @@
+[package]
+name = "passman"
+version = "0.1.0"
+authors = ["Jim Verheijde <jim.verheijde@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+
+[dependencies.gtk]
+version = "0.5.0"
+features = ["v3_10"]
