@@ -1,4 +1,5 @@
 # passman
+[![Build Status](https://travis-ci.org/Jimver/passman.svg?branch=master)](https://travis-ci.org/Jimver/passman)
 
 ## Description
 passman is a password manager written in Rust. The UI is built using GTK+.
